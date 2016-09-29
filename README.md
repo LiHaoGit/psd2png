@@ -1,2 +1,4 @@
 # psd2png
-psd to png
+requirement
+python 3 ( psd_tools,Pillow,packbits )
+
